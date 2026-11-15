@@ -1,0 +1,18 @@
+<resources>
+    <style name="Theme.DSDPhotobooth" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#151515</item>
+        <item name="colorPrimaryVariant">#151515</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#292929</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#151515</item>
+        <item name="android:colorBackground">#F6F6F4</item>
+        <item name="android:windowBackground">#F6F6F4</item>
+        <item name="android:statusBarColor">#F6F6F4</item>
+        <item name="android:navigationBarColor">#F6F6F4</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
